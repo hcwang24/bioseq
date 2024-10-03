@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/bioseq/badge/?version=latest)](https://bioseq.readthedocs.io/en/latest/?badge=latest)
+
 # bioseq
 
 A tool for processing DNA sequences.
