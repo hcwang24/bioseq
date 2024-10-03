@@ -1,4 +1,4 @@
-# bioseq [![Documentation Status](https://readthedocs.org/projects/bioseq/badge/?version=latest)](https://bioseq.readthedocs.io/en/latest/?badge=latest) ![CI/CD Workflow](https://github.com/hcwang24/bioseq/actions/workflows/ci-cd.yml/badge.svg)
+# bioseq [![Documentation Status](https://readthedocs.org/projects/bioseq/badge/?version=latest)](https://bioseq.readthedocs.io/en/latest/?badge=latest) ![CI/CD Workflow](https://github.com/hcwang24/bioseq/actions/workflows/ci-cd.yml/badge.svg) [![codecov](https://codecov.io/gh/hcwang24/bioseq/graph/badge.svg?token=T1HC6RXKEQ)](https://codecov.io/gh/hcwang24/bioseq)
 
 A tool for processing DNA sequences.
 
