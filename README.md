@@ -10,7 +10,20 @@ $ pip install bioseq
 
 ## Usage
 
-- TODO
+```python
+from bioseq import gc_count, reverse, transcribe
+
+seq_string = "ATCGAGCG"
+
+# Counting GC ratio
+gc_count(seq_string)
+
+# Reversing this sequence
+reverse(seq_string)
+
+# Transcribe the sequence
+transcribe(seq_string)
+```
 
 ## Contributing
 
